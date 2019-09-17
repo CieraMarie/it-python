@@ -11,7 +11,7 @@ def banner(subject, author):
     print("")
 
 if __name__ == "__main__":
-    banner("BANNER", "Ciera Twork")
+    banner("BANNER", "Ciera")
     subject = input("What's the subject?")
     author = input("Who's the author?")
     banner(subject, author)
